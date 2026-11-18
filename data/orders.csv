@@ -1,0 +1,15 @@
+order_id,customer_email,order_date,amount,country,discount_code
+1001,a.rao@example.com,2026-11-01,250.5,IN,
+1002,john@example,2026-11-01,120,US,SAVE10
+1003,mei@example.com,2026-11-02,,SG,
+1004,priya@example.com,11/03/2026,99.99,IN,SAVE10
+1005,li@example.com,2026-11-03,310,CN,
+1005,li@example.com,2026-11-03,310,CN,
+1006,,2026-11-04,75,IN,
+1007,sam@example.com,2026-11-04,-40,US,
+1008,ana@example.com,2026-11-05,980000,BR,
+1009,raj@example.com,2026-11-05,12x,IN,
+1010,eva@example.com,2026-11-06,180,DE,SAVE10
+1011,tom@example.com,2026-11-06,205,,
+1012,zoe@example.com,2026-11-07,150,UK,
+1013,kim@example.com,2026-11-07,NULL,KR,

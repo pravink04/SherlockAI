@@ -1,0 +1,8 @@
+{
+  "order_id": "number",
+  "customer_email": "email",
+  "order_date": "date",
+  "amount": "number",
+  "country": "text",
+  "status": "text"
+}

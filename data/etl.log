@@ -1,0 +1,8 @@
+2026-11-17 02:00:01 INFO  Starting job load_orders
+2026-11-17 02:00:09 ERROR Column 'status' not found in source extract orders_20261117.csv
+2026-11-17 02:00:12 WARN  14 rows rejected: invalid date format '11/03/2026'
+2026-11-17 02:00:14 ERROR Duplicate key value violates unique constraint "orders_pkey" (order_id=1005)
+2026-11-17 02:00:15 ERROR NULL value in column "customer_email" violates not-null constraint
+2026-11-17 02:00:22 ERROR invalid input syntax for type numeric: "12x"
+2026-11-17 02:00:40 ERROR Connection timeout after 30s to warehouse-db:5432
+2026-11-17 02:00:41 FATAL Job load_orders failed
